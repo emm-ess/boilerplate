@@ -1,0 +1,62 @@
+# ------------------------ Linux
+*~
+.directory
+.Trash-*
+vagrant/.ssh/îd_rsa
+
+# ------------------------ OSX
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary It
+
+# ------------------------ Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+
+# ------------------------ Sublime
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+sftp-config.json
+
+# ------------------------ NPM
+node_modules/
+npm-debug.log
+
+# ------------------------ Webpack
+website/stats.json
+website/webpack-stats.json
+website/webpack-stats-staging.json
+website/webpack-stats-prod.json
+website/assets/webpack_bundles
+website/assets/dist
+website/assets/staging
+
+# ------------------------ Sass
+.sass-cache/
+*.css.map
+
+# ------------------------ Project-Misc
+dist/
+.tmp/
+frontend-src/static/sass/generated/
+.todo-notes

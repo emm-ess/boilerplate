@@ -1,0 +1,25 @@
+{
+    "files": [
+        "src/static/typescript/main.ts"
+    ],
+    "include": [
+        "src/static/typescript/**/*"
+    ],
+    "compilerOptions": {
+        "outDir": "./dist/static/js/",
+        "module": "es2015",
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "strict": true,
+        "noImplicitAny": false,
+        "noImplicitReturns": true,
+        "experimentalDecorators": true,
+        "allowSyntheticDefaultImports": true,
+        "target": "es5",
+        "lib": [
+            "dom",
+            "es5",
+            "es2015.promise"
+        ]
+    }
+}
