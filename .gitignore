@@ -5,6 +5,7 @@
 vagrant/.ssh/îd_rsa
 
 # ------------------------ OSX
+.DS_Store
 .AppleDouble
 .LSOverride
 ._*
@@ -14,10 +15,12 @@ vagrant/.ssh/îd_rsa
 .TemporaryItems
 .Trashes
 .VolumeIcon.icns
+.com.apple.timemachine.donotpresent
 .AppleDB
 .AppleDesktop
 Network Trash Folder
-Temporary It
+Temporary Items
+.apdisk
 
 # ------------------------ Windows
 Thumbs.db
